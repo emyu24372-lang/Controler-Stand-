@@ -3,4 +3,5 @@
 
 Here you can find the files for the controller stand.
 I designed this stand specifically for the Xbox React-R controller.
+This is a very simple project, but it's really useful for keeping things organized.
 ![Uploading IMG_20261018_235711331_HDR.jpg…]()
